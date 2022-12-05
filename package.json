@@ -1,0 +1,17 @@
+{
+  "name": "eslint-typescript-tutorial",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/jest": "^29.2.4",
+    "@types/node": "^18.11.10",
+    "@typescript-eslint/eslint-plugin": "5",
+    "@typescript-eslint/parser": "5",
+    "eslint": "8",
+    "eslint-config-airbnb-base": "15",
+    "eslint-config-airbnb-typescript": "17",
+    "eslint-plugin-import": "2",
+    "jest": "28.0.0",
+    "ts-jest": "28.0.0",
+    "typescript": "^4.9.3"
+  }
+}
